@@ -1,7 +1,7 @@
 # AudioConv
 AudioConv gives a concert-like surround feeling to any music in a non-trivial way.
 
-[![contribute optimizations](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Abdulr-intija/AudioCrab/issues)
+[![contribute optimizations](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Mastersam07/AudioConv/issues)
 
 ## Dependencies
 AudioConv depends on the following packages to work as expected
